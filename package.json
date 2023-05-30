@@ -1,0 +1,11 @@
+{
+  "name": "events_state-filters",
+  "version": "1.0.0",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/f6j85yw0jpsgey5e/branch/master?svg=true)](https://ci.appveyor.com/project/maria-namira/events-state-filters/branch/master)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
