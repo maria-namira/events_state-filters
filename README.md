@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f6j85yw0jpsgey5e/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-2-1-events-state-filter/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/f6j85yw0jpsgey5e/branch/master?svg=true)](https://ci.appveyor.com/project/maria-namira/events-state-filters/branch/master)
 
 # Портфолио с фильтрами
 
